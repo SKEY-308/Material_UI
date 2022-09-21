@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "value": "works",
+      "id": 1
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "value": "todos",
+      "id": 2
+    },
+    {
+      "title": "Severus First Text",
+      "details": "Hello, ceci c'est mon premier Text. \nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "value": "works",
+      "id": 3
+    },
+    {
+      "title": "News",
+      "details": "Encore un nouveau petit con, qui se croît être le Roi des Bandits...!!",
+      "value": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Hello World",
+      "details": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
+      "value": "reminders",
+      "id": 6
+    }
+  ]
+}
